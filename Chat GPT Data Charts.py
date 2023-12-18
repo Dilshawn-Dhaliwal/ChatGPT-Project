@@ -2,6 +2,7 @@
 Dilshawn Dhaliwal
 ChatGPT Assignment Code
 '''
+
 # Import all of the modules
 import matplotlib.pyplot as plt
 import pandas as pd
